@@ -2,6 +2,8 @@
 
 Urlock-py is a python library for connecting to a running urbit ship.
 
+[![awesome urbit badge](https://img.shields.io/badge/~-awesome%20urbit-lightgrey)](https://github.com/urbit/awesome-urbit)
+
 It consists of a single class `Urlock`. Methods are below.
 
 `__init__(url, code)`
